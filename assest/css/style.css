@@ -1,0 +1,193 @@
+
+.navber{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -20px;
+    background-color: rgba(0, 0, 0, 0.228);
+    
+    
+}
+.logo img{
+    width: 100px;
+    padding-left: 80px;
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    font-weight: 800;
+    padding-right: 50px;
+    cursor: pointer;
+    
+    
+    
+    
+}
+.banner img{
+    width: 100%;
+    height: 800px;
+    margin-top: -130px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    
+    
+}
+.paragraph{
+    margin: 40px;
+    padding-top: 250px;
+    
+}
+.button{
+    padding-left: 40px;
+   
+}
+.btn {
+    padding: 10px 20px; 
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+.btn2{
+    padding: 10px 20px; 
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+.container{
+    padding-left: 130PX;
+    margin-top: 200px;
+    display: flex;
+    gap: 50px;
+    
+    
+}
+.container img{
+    width: 350px;
+    height: 350px;
+    
+}
+.catagory2{
+    position: relative;
+    bottom: 200px;
+    padding: 20px;
+
+}
+.catagory2 button{
+    padding: 10px 20px;
+    font-weight:bold;
+    cursor: pointer;
+}
+.catagory{
+    position: relative;
+    bottom: 200px;
+    padding: 20px;
+    color: aliceblue;
+
+}
+.catagory button{
+    padding: 10px 20px;
+    font-weight:bold;
+    cursor: pointer;
+}
+.catagory3{
+    position: relative;
+    bottom: 200px;
+    padding: 20px;
+    color: aliceblue;
+
+}
+.catagory3 button{
+    padding: 10px 20px;
+    font-weight:bold;
+    cursor: pointer;
+}
+.product{
+    margin-bottom: -50px;
+    
+}
+.product h1{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 120px;
+    
+
+}
+.product img{
+    width: 250px;
+    height: 200px;
+    padding: 15px;
+    
+   
+}
+
+.items{
+    display: flex;
+    padding: 10px;
+    
+}
+.items2{
+    display: flex;
+    padding: 10px;
+}
+.product h2 p {
+    padding: 20px;
+    margin: 20px;
+    
+}
+.product .items h2 p {
+    padding: 20px;
+}
+.img{
+    width: 100%;
+    height: 0px;
+    padding-top: 30px;
+
+}
+.paragraph2{
+    padding: 60px;
+    
+}
+.market-place{
+    display: flex;
+    margin-top: 250px;
+    padding-left: 50px;
+    justify-content: space-around;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: rgb(246, 246, 246);
+    border: 5px;
+}
+.footer h3{
+    padding-left: 40px;
+}
+.footer ul li{
+    list-style: none;
+    font-size: large;
+    margin-top: 10px;
+}
+.footer img{
+    width: 150px;
+    padding-top: 50px;
+}
+.copyright .CR2{
+    text-align: end;
+    margin-top: -30px;
+    
+}
+.copyright{
+    padding: 10px;
+    background-color: antiquewhite;
+}
